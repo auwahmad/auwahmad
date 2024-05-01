@@ -1,5 +1,5 @@
-### ATTA UL WASAY 👋
-## Profile
+## ATTA UL WASAY 👋
+### Profile
 Dedicated Mechatronics & Control Engineer with over 13 years of specialized experience in Control Systems, Robot Kinematics, Mobile Robotics, and Embedded Systems. Graduated from National University of Science and Technology (PAK) with MS degree in Mechatronics Engineering.
 Professional journey seamlessly integrates academic excellence spanning over a decade with TVET and Higher Education. Currently serving as a Lab Instructor in the Engineering department at Higher Colleges of Technology Dubai, duties encompass teaching assistance, lab content development, live demonstrations and research support to faculty. Extended experience to hands-on roles at FECTO Cement and Land Rover Service.
 Notable contributions include successful Control Systems Competitions collaborated with Mathworks & Quanser (Dubai), establishment of the LUBAN workshop in Pakistan as Master Trainer in partnership with the Tianjin Municipal Education Commission (China), and consultation for Cynosure on JICA's capacity development program in KPK (PAK).
